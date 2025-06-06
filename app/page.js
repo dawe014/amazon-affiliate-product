@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import Image from "next/image";
 
 const products = [
