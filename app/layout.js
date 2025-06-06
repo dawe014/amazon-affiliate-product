@@ -57,7 +57,7 @@ export const metadata = {
     creator: "@yourhandle", // Optional Twitter handle
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "/vecteezy_shopping-cart-illustration-ai-generative_31611140.png",
   },
 };
 
